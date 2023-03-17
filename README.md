@@ -15,13 +15,13 @@
 
 `$ git clone https://github.com/lcsmota/BookApi.git`
 
-`$ cd BookApi`
+`$ cd BookApi/`
 
 `$ dotnet restore`
 
 `$ dotnet run`
 
-**Server listenning at  [https://localhost:7001/](https://localhost:7001/)**
+**Server listenning at  [https://localhost:7001/swagger](https://localhost:7001/swagger)**
 #
 ## 🔨 Tools used
 
