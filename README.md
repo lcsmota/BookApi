@@ -73,7 +73,7 @@ GO
 
 `$ dotnet run`
 
-**Server listenning at  [https://localhost:7001/swagger](https://localhost:7001/swagger) or [https://localhost:7001/api/v1/Books](https://localhost:7001/api/v1/Books) and [https://localhost:7250/api/v1/Brands](https://localhost:7250/api/v1/Brands)**
+**Server listenning at  [https://localhost:7001/swagger](https://localhost:7001/swagger) or [https://localhost:7001/api/v1/Books](https://localhost:7001/api/v1/Books) and [https://localhost:7250/api/v1/Authors](https://localhost:7250/api/v1/Authors)**
 #
 
 # 📫  Routes for Book
