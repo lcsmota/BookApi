@@ -10,7 +10,7 @@
 
 _Create a database in SQLServer that contains the table created from the following script:_
 
-```
+```sql
 CREATE DATABASE [BookApiDapper]
 
 USE [BookApiDapper]
@@ -39,7 +39,7 @@ GO
 ```
 
 ### Relationships
-```
+```yaml
 +----------------+          +--------------+
 |    Authors     |          |    Books     |
 +----------------+          +--------------+
