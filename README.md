@@ -129,7 +129,7 @@ GO
   POST https://localhost:7001/api/v1/Books
 ```
 📨  **body:**
-```
+```json
 {
   "title": "Microsoft .Net: Architecting Applications for the Enterprise",
   "publisher": "Microsoft Press; 2nd ed",
@@ -141,7 +141,7 @@ GO
 ```
 
 🧾  **response:**
-```
+```json
 {
   "id": 1006,
   "title": "Microsoft .Net: Architecting Applications for the Enterprise",
@@ -177,7 +177,7 @@ GO
 | `id`      | `int` | **Mandatory**. The ID of the object you want to update|
 
 📨  **body:**
-```
+```json
 {
   "title": "Modern Web Development: Understanding domains, technologies, and user experience",
   "publisher": "Microsoft Press; 1ª ed.",
@@ -327,7 +327,7 @@ GO
   POST https://localhost:7001/api/v1/Authors
 ```
 📨  **body:**
-```
+```json
 {
   "name": "Dino Esposito",
   "nationality": "Italy",
@@ -336,7 +336,7 @@ GO
 ```
 
 🧾  **response:**
-```
+```json
 {
   "id": 1006,
   "name": "Dino Esposito",
@@ -370,7 +370,7 @@ GO
 | `id`      | `int` | **Mandatory**. The ID of the object you want to update|
 
 📨  **body:**
-```
+```json
 {
   "name": "Dino Esposito",
   "nationality": "Italy",
